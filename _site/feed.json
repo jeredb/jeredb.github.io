@@ -1,8 +1,8 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jered Benoit",
-	"home_page_url": "https://jeredb.micro.blog/",
-	"feed_url": "https://jeredb.micro.blog/feed.json",
+	"home_page_url": "http://micro.jeredb.com/",
+	"feed_url": "http://micro.jeredb.com/feed.json",
 	"items": [
 		
 		{
@@ -10,7 +10,7 @@
 	      	
 			"content_html": "<p>Okay. I was hosting all of my own posts on my Squarespace blog, total ownership. But posting was a pain! I think subscribing is the way to go and then replicate to GitHub.</p>\n",
 			"date_published": "2018-01-06T11:00:00-05:00",
-			"url": "https://jeredb.micro.blog/2018/01/06/okay-i-was.html"
+			"url": "http://micro.jeredb.com/2018/01/06/okay-i-was.html"
 		},
 		
 		{
@@ -18,7 +18,7 @@
 	      	
 			"content_html": "<p>Trying this way out…</p>\n",
 			"date_published": "2018-01-06T10:58:00-05:00",
-			"url": "https://jeredb.micro.blog/2018/01/06/trying-this-way.html"
+			"url": "http://micro.jeredb.com/2018/01/06/trying-this-way.html"
 		}
 		
 	]
