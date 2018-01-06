@@ -1,34 +1,32 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
+aboutPage: true
 
-# - markdown: kramdown
+# - markdown: redcarpet
+highlighter: rouge
 
-# Navigation
-nav:
-  - # - name:           "About"
-    href:           "/about/"
-  - # - name:           "RSS"
-    href:           "/feed.xml"
+domain_# - name: "http://[HOSTNAME]"
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_short# - name: 'your-disqus-shortname'
 
-# Sass
-sass:
-  style:            :compressed
-
-# Scopes
 defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
 
 title: "Jered Benoit"
 tagline: ""
