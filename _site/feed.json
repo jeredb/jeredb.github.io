@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/01/07/with-the-first.html",
+	      	
+			"content_html": "<p>With the first episode of the <a href=\"http://conversation.show\">conversation.show</a> published, now I need to figure out how to get a little better sound out of the lav mics we are using. Any tips?</p>\n",
+			"date_published": "2018-01-07T10:44:00-05:00",
+			"url": "http://micro.jeredb.com/2018/01/07/with-the-first.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/01/07/im-starting-a.html",
 	      	
 			"content_html": "<p>I’m starting a podcast with my wife. She is the most amazing partner to have. Find our first episode at <a href=\"http://www.conversation.show/1\">conversation.show</a>. You can also follow <a href=\"https://micro.blog/conversationshow\">@conversationshow</a> here on Micro.blog!</p>\n",
