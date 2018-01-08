@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/01/08/on-micro-monday.html",
+	      	
+			"content_html": "<p>On Micro Monday, I recommend <a href=\"https://micro.blog/patrickrhone\">@patrickrhone</a>. He shares generously, is always thoughtful in his words, and makes this place a place worth being.</p>\n",
+			"date_published": "2018-01-08T14:18:00-05:00",
+			"url": "http://micro.jeredb.com/2018/01/08/on-micro-monday.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/01/07/202406.html",
 	      	
 			"content_html": "<p>Hey <a href=\"https://micro.blog/conversationshow\">@conversationshow</a>! The beinenstisch was amazing!</p>\n",
