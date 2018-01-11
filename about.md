@@ -5,7 +5,7 @@ layout: page
 order: 0
 ---
 
-Tinkerer. Podcast enthusiast. Productivity nerd. Coffee drinker. Whiskey appreciator. Beer consumer. War game player.
+Tinkerer. Podcast enthusiast. Productivity nerd. Coffee drinker. Whiskey appreciator. Beer consumer. War game player. He/him.
 
 Writes at: [jeredb.com](https://jeredb.com)
 
