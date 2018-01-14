@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/01/14/oh-my-gosh.html",
+	      	
+			"content_html": "<p>Oh my gosh! <a href=\"https://itunes.apple.com/us/movie/the-transformers-the-movie-30th-anniversary-edition/id1142391717\">The Transformers: The movie</a> is available on iTunes. Such a nostalgia rush! I am so excited to watch it with my son! 📽</p>\n",
+			"date_published": "2018-01-13T22:04:00-05:00",
+			"url": "http://micro.jeredb.com/2018/01/13/oh-my-gosh.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/01/13/it-is-saturday.html",
 	      	
 			"content_html": "<p>It is Saturday, so another episode of the Conversation(Dot)Show is up!</p>\n\n<p><a href=\"http://conversation.show/2\">conversation.show/2</a></p>\n",
