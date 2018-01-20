@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/01/20/even-though-the.html",
+	      	
+			"content_html": "<p>Even though the day started with a swim meet, it has been a very relaxing day. I can get used to being done with this master’s degree.</p>\n",
+			"date_published": "2018-01-20T16:41:00-05:00",
+			"url": "http://micro.jeredb.com/2018/01/20/even-though-the.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/01/20/another-day-another.html",
 	      	
 			"content_html": "<p>Another day, another swim meet. Thankfully <a href=\"https://micro.blog/estherbenoit\">@estherbenoit</a> took the early shift. Tomorrow I will do the same for her.</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Okay. I was hosting all of my own posts on my Squarespace blog, total ownership. But posting was a pain! I think subscribing is the way to go and then replicate to GitHub.</p>\n",
 			"date_published": "2018-01-06T11:00:00-05:00",
 			"url": "http://micro.jeredb.com/2018/01/06/okay-i-was.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/01/06/trying-this-way.html",
-	      	
-			"content_html": "<p>Trying this way out…</p>\n",
-			"date_published": "2018-01-06T10:58:00-05:00",
-			"url": "http://micro.jeredb.com/2018/01/06/trying-this-way.html"
 		}
 		
 	]
