@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/01/21/another-day-another.html",
+	      	
+			"content_html": "<p>Another day, another morning at a pool.</p>\n",
+			"date_published": "2018-01-21T10:12:00-05:00",
+			"url": "http://micro.jeredb.com/2018/01/21/another-day-another.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/01/21/the-kids-are.html",
 	      	
 			"content_html": "<p>The kids are doing quite a number on my Space Marines.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/dfa933303e.jpg\" width=\"600\" height=\"599\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>With the first episode of the <a href=\"http://conversation.show\">conversation.show</a> published, now I need to figure out how to get a little better sound out of the lav mics we are using. Any tips?</p>\n",
 			"date_published": "2018-01-07T10:44:00-05:00",
 			"url": "http://micro.jeredb.com/2018/01/07/with-the-first.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/01/07/im-starting-a.html",
-	      	
-			"content_html": "<p>I’m starting a podcast with my wife. She is the most amazing partner to have. Find our first episode at <a href=\"http://www.conversation.show/1\">conversation.show</a>. You can also follow <a href=\"https://micro.blog/conversationshow\">@conversationshow</a> here on Micro.blog!</p>\n",
-			"date_published": "2018-01-06T22:42:00-05:00",
-			"url": "http://micro.jeredb.com/2018/01/06/im-starting-a.html"
 		}
 		
 	]
