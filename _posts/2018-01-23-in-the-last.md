@@ -1,12 +1,9 @@
 ---
 layout: post
 microblog: true
-date: 2018-01-22 20:59 -0500
+date: 2018-01-22 21:03 -0500
 guid: http://jeredb.micro.blog/2018/01/23/in-the-last.html
 ---
-In the last few weeks, I have gone from one podcast to three. Turning a side hobby into a little podcast network.
+In the last couple of weeks, one podcast has turned into three. I’ve created a little podcast network of my own.
 
-Check them out:
-- conversation.show
-- dicerolling.family
-- notbenandjerry.com
+Check them out: [coversation.show](http://conversation.show), [DiceRollingFamily](http://dicerolling.family), [Not Ben and Jerry](http://notbenandjerry.com)
