@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/01/25/when-it-works.html",
+	      	
+			"content_html": "<p>When it works, taking the kids to school is great!</p>\n",
+			"date_published": "2018-01-25T07:40:00-05:00",
+			"url": "http://micro.jeredb.com/2018/01/25/when-it-works.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/01/23/in-the-last.html",
 	      	
 			"content_html": "<p>In the last couple of weeks, one podcast has turned into three. I’ve created a little podcast network of my own.</p>\n\n<p>Check them out: <a href=\"http://conversation.show\">coversation.show</a>, <a href=\"http://dicerolling.family\">DiceRollingFamily</a>, <a href=\"http://notbenandjerry.com\">Not Ben and Jerry</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>It is Saturday, so another episode of the Conversation(Dot)Show is up!</p>\n\n<p><a href=\"http://conversation.show/2\">conversation.show/2</a></p>\n",
 			"date_published": "2018-01-13T14:00:00-05:00",
 			"url": "http://micro.jeredb.com/2018/01/13/it-is-saturday.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/01/08/on-micro-monday.html",
-	      	
-			"content_html": "<p>On Micro Monday, I recommend <a href=\"https://micro.blog/patrickrhone\">@patrickrhone</a>. He shares generously, is always thoughtful in his words, and makes this place a place worth being.</p>\n",
-			"date_published": "2018-01-08T14:18:00-05:00",
-			"url": "http://micro.jeredb.com/2018/01/08/on-micro-monday.html"
 		}
 		
 	]
