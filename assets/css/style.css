@@ -640,8 +640,8 @@ h2.month {
 
 	h1 { font-size: 26px; }
 	.post h2.headline { font-size: 13px; }
-	.post h1 { font-size:24px; }
-	.post h2 { font-size:20px; }
+	.post h1 { font-size:13px; }
+	.post h2 { font-size:13px; }
 }
 
 .mapping_github {
