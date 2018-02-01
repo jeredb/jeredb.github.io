@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/02/01/the-new-bitmoji.html",
+	      	
+			"content_html": "<p>The new Bitmoji deluxe avatars are so good, I’m considering changing my custom avatar… Is this a sign of the end times?</p>\n",
+			"date_published": "2018-02-01T11:17:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/01/the-new-bitmoji.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/02/01/a-new-fresh.html",
 	      	
 			"content_html": "<p>A new, fresh episode of the dormant <a href=\"https://micro.blog/NotBenAndJerry\">@NotBenAndJerry</a> podcast. It is back!</p>\n\n<p>Give it a listen here: <a href=\"http://www.notbenandjerry.com/5\">www.notbenandjerry.com/5</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>The kids are doing quite a number on my Space Marines.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/dfa933303e.jpg\" width=\"600\" height=\"599\" /></p>\n",
 			"date_published": "2018-01-20T20:36:00-05:00",
 			"url": "http://micro.jeredb.com/2018/01/20/the-kids-are.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/01/20/even-though-the.html",
-	      	
-			"content_html": "<p>Even though the day started with a swim meet, it has been a very relaxing day. I can get used to being done with this master’s degree.</p>\n",
-			"date_published": "2018-01-20T16:41:00-05:00",
-			"url": "http://micro.jeredb.com/2018/01/20/even-though-the.html"
 		}
 		
 	]
