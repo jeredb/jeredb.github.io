@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/02/02/music-that-plucked.html",
+	      	
+			"content_html": "<p>Music that plucked the nostalgic chord at dinner has lead to an evening of music from my past. It is lovely!</p>\n",
+			"date_published": "2018-02-01T20:06:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/01/music-that-plucked.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/02/01/the-new-bitmoji.html",
 	      	
 			"content_html": "<p>The new Bitmoji deluxe avatars are so good, I’m considering changing my custom avatar… Is this a sign of the end times?</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Another day, another morning at a pool.</p>\n",
 			"date_published": "2018-01-21T10:12:00-05:00",
 			"url": "http://micro.jeredb.com/2018/01/21/another-day-another.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/01/21/the-kids-are.html",
-	      	
-			"content_html": "<p>The kids are doing quite a number on my Space Marines.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/dfa933303e.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-01-20T20:36:00-05:00",
-			"url": "http://micro.jeredb.com/2018/01/20/the-kids-are.html"
 		}
 		
 	]
