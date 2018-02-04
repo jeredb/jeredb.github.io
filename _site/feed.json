@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/02/04/next-time-jack.html",
+	      	
+			"content_html": "<p>“Next time, Jack, write a God damned memo”</p>\n",
+			"date_published": "2018-02-03T21:24:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/03/next-time-jack.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/02/04/you-guys-hunt.html",
 	      	
 			"content_html": "<p>You guys! Hunt for the Red October is down to $4.99 on <a href=\"https://itunes.apple.com/us/movie/the-hunt-for-red-october/id211292501?uo=4&amp;at=11lqxI\">iTunes</a>!</p>\n\n<p>Don’t say I didn’t ever give you nothing!</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Not feeling well yesterday or today. Fingers crossed for a recovery by tomorrow.</p>\n",
 			"date_published": "2018-01-30T07:56:00-05:00",
 			"url": "http://micro.jeredb.com/2018/01/30/not-feeling-well.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/01/26/well-looks-like.html",
-	      	
-			"content_html": "<p>Well, looks like the podcast thing is going to stick around. Just bought mics and a mixer.</p>\n",
-			"date_published": "2018-01-25T21:25:00-05:00",
-			"url": "http://micro.jeredb.com/2018/01/25/well-looks-like.html"
 		}
 		
 	]
