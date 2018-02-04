@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/02/04/a-morning-rpg.html",
+	      	
+			"content_html": "<p>✅ A morning rpg session with the family for the next episode of <a href=\"http://DiceRolling.family\">DiceRolling.Family</a>. </p>\n",
+			"date_published": "2018-02-04T11:01:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/04/a-morning-rpg.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/02/04/i-will-live.html",
 	      	
 			"content_html": "<p>“I will live in Montana. And I will marry a round American woman and raise rabbits, and she will cook them for me. And I will have a pickup truck… maybe even a ‘recreational vehicle.’ And drive from state to state. Do they let you do that?”</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>A new, fresh episode of the dormant <a href=\"https://micro.blog/NotBenAndJerry\">@NotBenAndJerry</a> podcast. It is back!</p>\n\n<p>Give it a listen here: <a href=\"http://www.notbenandjerry.com/5\">www.notbenandjerry.com/5</a></p>\n",
 			"date_published": "2018-02-01T11:13:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/01/a-new-fresh.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/02/01/i-have-been.html",
-	      	
-			"content_html": "<p>I have been working very hard to create my own little podcast network, and it is almost ready. <a href=\"http://b3noit.com\">b3noit.com</a>.</p>\n",
-			"date_published": "2018-01-31T21:31:00-05:00",
-			"url": "http://micro.jeredb.com/2018/01/31/i-have-been.html"
 		}
 		
 	]
