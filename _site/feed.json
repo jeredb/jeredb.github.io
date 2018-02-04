@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/02/04/i-will-live.html",
+	      	
+			"content_html": "<p>“I will live in Montana. And I will marry a round American woman and raise rabbits, and she will cook them for me. And I will have a pickup truck… maybe even a ‘recreational vehicle.’ And drive from state to state. Do they let you do that?”</p>\n",
+			"date_published": "2018-02-03T21:28:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/03/i-will-live.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/02/04/next-time-jack.html",
 	      	
 			"content_html": "<p>“Next time, Jack, write a God damned memo”</p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>I have been working very hard to create my own little podcast network, and it is almost ready. <a href=\"http://b3noit.com\">b3noit.com</a>.</p>\n",
 			"date_published": "2018-01-31T21:31:00-05:00",
 			"url": "http://micro.jeredb.com/2018/01/31/i-have-been.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/01/30/not-feeling-well.html",
-	      	
-			"content_html": "<p>Not feeling well yesterday or today. Fingers crossed for a recovery by tomorrow.</p>\n",
-			"date_published": "2018-01-30T07:56:00-05:00",
-			"url": "http://micro.jeredb.com/2018/01/30/not-feeling-well.html"
 		}
 		
 	]
