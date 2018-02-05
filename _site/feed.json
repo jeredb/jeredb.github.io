@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/02/05/for-micro-monday.html",
+	      	
+			"content_html": "<p>For Micro Monday, I recommend you follow <a href=\"https://micro.blog/belle\">@belle</a>. She has reminded me several time to use my privilege to help those who aren’t able to assert theirs.</p>\n",
+			"date_published": "2018-02-05T07:42:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/05/for-micro-monday.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/02/04/a-morning-rpg.html",
 	      	
 			"content_html": "<p>✅ A morning rpg session with the family for the next episode of <a href=\"http://DiceRolling.family\">DiceRolling.Family</a>. </p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>The new Bitmoji deluxe avatars are so good, I’m considering changing my custom avatar… Is this a sign of the end times?</p>\n",
 			"date_published": "2018-02-01T11:17:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/01/the-new-bitmoji.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/02/01/a-new-fresh.html",
-	      	
-			"content_html": "<p>A new, fresh episode of the dormant <a href=\"https://micro.blog/NotBenAndJerry\">@NotBenAndJerry</a> podcast. It is back!</p>\n\n<p>Give it a listen here: <a href=\"http://www.notbenandjerry.com/5\">www.notbenandjerry.com/5</a></p>\n",
-			"date_published": "2018-02-01T11:13:00-05:00",
-			"url": "http://micro.jeredb.com/2018/02/01/a-new-fresh.html"
 		}
 		
 	]
