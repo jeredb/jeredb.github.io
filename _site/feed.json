@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/02/05/im-sitting-in.html",
+	      	
+			"content_html": "<p>I’m sitting in a educational session about genderqueer terminology and issues. It is very enlightening and is going to help redouble my efforts to expunge “sir/ma’am” from my vocabulary. Particularly after hearing a child talk about “passing”.</p>\n",
+			"date_published": "2018-02-05T13:48:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/05/im-sitting-in.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/02/05/a-hearty-reward.html",
 	      	
 			"content_html": "<p>A hearty reward for talking to legislators…</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/14220421a0.jpg\" width=\"599\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>“I will live in Montana. And I will marry a round American woman and raise rabbits, and she will cook them for me. And I will have a pickup truck… maybe even a ‘recreational vehicle.’ And drive from state to state. Do they let you do that?”</p>\n",
 			"date_published": "2018-02-03T21:28:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/03/i-will-live.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/02/04/next-time-jack.html",
-	      	
-			"content_html": "<p>“Next time, Jack, write a God damned memo”</p>\n",
-			"date_published": "2018-02-03T21:24:00-05:00",
-			"url": "http://micro.jeredb.com/2018/02/03/next-time-jack.html"
 		}
 		
 	]
