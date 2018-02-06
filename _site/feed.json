@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/02/06/a-fruitful-day.html",
+	      	
+			"content_html": "<p>A fruitful day.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/b42e87c543.jpg\" width=\"599\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-05T19:04:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/05/a-fruitful-day.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/02/05/alchemy-coffee-richmond.html",
 	      	
 			"content_html": "<p>Alchemy Coffee - Richmond, VA</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/1921dc5aca.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>For Micro Monday, I recommend you follow <a href=\"https://micro.blog/belle\">@belle</a>. She has reminded me several time to use my privilege to help those who aren’t able to assert theirs.</p>\n",
 			"date_published": "2018-02-05T07:42:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/05/for-micro-monday.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/02/04/a-morning-rpg.html",
-	      	
-			"content_html": "<p>✅ A morning rpg session with the family for the next episode of <a href=\"http://DiceRolling.family\">DiceRolling.Family</a>. </p>\n",
-			"date_published": "2018-02-04T11:01:00-05:00",
-			"url": "http://micro.jeredb.com/2018/02/04/a-morning-rpg.html"
 		}
 		
 	]
