@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/02/08/the-latest-episode.html",
+	      	
+			"content_html": "<p>The latest episode of <a href=\"https://micro.blog/NotBenAndJerry\">@NotBenAndJerry</a> has dropped. The conditions for recording were not ideal, but the atmosphere added to the conversation! <a href=\"http://notbenandjerry.com/6\">http://notbenandjerry.com/6</a></p>\n",
+			"date_published": "2018-02-08T08:19:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/08/the-latest-episode.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/02/07/the-editor-estherbenoithttpsmicroblogestherbenoit.html",
 	      	
 			"content_html": "<p>The editor (<a href=\"https://micro.blog/estherbenoit\">@estherbenoit</a>) says that this week’s episode of the <a href=\"http://Conversation.show\">Conversation(Dot)Show</a> is a great one. You probably should get caught up while we are still in single digits of episode! <a href=\"http://conversation.show\">conversation.show</a></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Of course the legislator who supports discriminatory policies isn’t in… and that sucker won by a cointoss. A true reminder that every vote counts.</p>\n",
 			"date_published": "2018-02-05T10:02:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/05/of-course-the.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/02/05/checked-in.html",
-	      	
-			"content_html": "<p>Checked in.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/915a6e57b1.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-05T09:11:00-05:00",
-			"url": "http://micro.jeredb.com/2018/02/05/checked-in.html"
 		}
 		
 	]
