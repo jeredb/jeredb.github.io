@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/02/09/also-estherbenoithttpsmicroblogestherbenoit-is.html",
+	      	
+			"content_html": "<p>Also, <a href=\"https://micro.blog/estherbenoit\">@estherbenoit</a> is the best editor! Seriously. Check out <a href=\"http://Conversation.show/6\">her work</a>!</p>\n",
+			"date_published": "2018-02-08T21:18:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/08/also-estherbenoithttpsmicroblogestherbenoit-is.html"
+		},
+		
+		{
+			"id": "http://jeredb.micro.blog/2018/02/09/oh-my-gosh.html",
+	      	
+			"content_html": "<p>Oh my gosh! The best episode of the <a href=\"http://Conversation.show/6\">Conversation Show</a> came out today. You have to check this one out!</p>\n",
+			"date_published": "2018-02-08T21:17:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/08/oh-my-gosh.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/02/08/the-latest-episode.html",
 	      	
 			"content_html": "<p>The latest episode of <a href=\"https://micro.blog/NotBenAndJerry\">@NotBenAndJerry</a> has dropped. The conditions for recording were not ideal, but the atmosphere added to the conversation! <a href=\"http://notbenandjerry.com/6\">http://notbenandjerry.com/6</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>Some post lobbying libations.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/f3cdb75bda.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-02-05T11:52:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/05/some-post-lobbying.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/02/05/met-with-his.html",
-	      	
-			"content_html": "<p>Met with his legislative aide and pressed her on a few bills. I’m sure nothing will come of it, but trying to do my part!</p>\n",
-			"date_published": "2018-02-05T11:26:00-05:00",
-			"url": "http://micro.jeredb.com/2018/02/05/met-with-his.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/02/05/of-course-the.html",
-	      	
-			"content_html": "<p>Of course the legislator who supports discriminatory policies isn’t in… and that sucker won by a cointoss. A true reminder that every vote counts.</p>\n",
-			"date_published": "2018-02-05T10:02:00-05:00",
-			"url": "http://micro.jeredb.com/2018/02/05/of-course-the.html"
 		}
 		
 	]
