@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/02/15/it-is-also.html",
+	      	
+			"content_html": "<p>It is also a lot of fun to have <a href=\"https://micro.blog/estherbenoit\">@estherbenoit</a> as a partner! I love hearing her edits and how she shapes a conversation that I was part of! Check out her work on the <a href=\"http://Conversation.show/7\">Conversation Show</a></p>\n",
+			"date_published": "2018-02-15T07:57:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/15/it-is-also.html"
+		},
+		
+		{
+			"id": "http://jeredb.micro.blog/2018/02/15/i-am-really.html",
+	      	
+			"content_html": "<p>I am really loving having a little podcast network. It definitely provides a rythym to the week, and things to be excited for!</p>\n",
+			"date_published": "2018-02-15T07:56:00-05:00",
+			"url": "http://micro.jeredb.com/2018/02/15/i-am-really.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/02/15/not-ben-shane.html",
 	      	
 			"content_html": "<p>Not Ben (Shane) and Not Jerry (me!) talk about the Winter Olympics, Valentine’s Day, and smart speakers. Get the latest episode <a href=\"http://notbenandjerry.com/7\">notbenandjerry.com/7</a></p>\n",
@@ -67,22 +83,6 @@
 			"content_html": "<p>Oh my gosh! The best episode of the <a href=\"http://Conversation.show/6\">Conversation Show</a> came out today. You have to check this one out!</p>\n",
 			"date_published": "2018-02-08T21:17:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/08/oh-my-gosh.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/02/08/the-latest-episode.html",
-	      	
-			"content_html": "<p>The latest episode of <a href=\"https://micro.blog/NotBenAndJerry\">@NotBenAndJerry</a> has dropped. The conditions for recording were not ideal, but the atmosphere added to the conversation! <a href=\"http://notbenandjerry.com/6\">http://notbenandjerry.com/6</a></p>\n",
-			"date_published": "2018-02-08T08:19:00-05:00",
-			"url": "http://micro.jeredb.com/2018/02/08/the-latest-episode.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/02/07/the-editor-estherbenoithttpsmicroblogestherbenoit.html",
-	      	
-			"content_html": "<p>The editor (<a href=\"https://micro.blog/estherbenoit\">@estherbenoit</a>) says that this week’s episode of the <a href=\"http://Conversation.show\">Conversation(Dot)Show</a> is a great one. You probably should get caught up while we are still in single digits of episode! <a href=\"http://conversation.show\">conversation.show</a></p>\n",
-			"date_published": "2018-02-07T07:32:00-05:00",
-			"url": "http://micro.jeredb.com/2018/02/07/the-editor-estherbenoithttpsmicroblogestherbenoit.html"
 		}
 		
 	]
