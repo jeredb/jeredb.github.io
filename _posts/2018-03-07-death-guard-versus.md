@@ -2,7 +2,8 @@
 layout: post
 title: "Death Guard versus Rampant Lions"
 microblog: false
-date: 2018-03-07 10:58 -0500
+audio: 
+date: 2018-03-07 11:58 -0400
 guid: http://jeredb.micro.blog/2018/03/07/death-guard-versus.html
 ---
 
