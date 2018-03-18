@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-01 11:13 -0500
+audio: 
+date: 2018-02-01 12:13 -0400
 guid: http://jeredb.micro.blog/2018/02/01/a-new-fresh.html
 ---
 A new, fresh episode of the dormant [@NotBenAndJerry](https://micro.blog/NotBenAndJerry) podcast. It is back!
