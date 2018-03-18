@@ -1,7 +1,8 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-09 13:06 -0500
+audio: 
+date: 2018-02-09 14:06 -0400
 guid: http://jeredb.micro.blog/2018/02/09/multipad-lifestyle-in.html
 ---
 Multipad lifestyle in the wild!! 
