@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/03/31/work-from-penland.html",
+	      	
+			"content_html": "<p>Work from Penland School of the Arts. Got my creative fires lit again.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/c8323c87cc.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-03-31T13:52:00-04:00",
+			"url": "http://micro.jeredb.com/2018/03/31/work-from-penland.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/03/18/brunch-with-my.html",
 	      	
 			"content_html": "<p>Brunch with my favorite people at my favorite spot.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/0e348a37a7.jpg\" width=\"600\" height=\"451\" /></p>\n",
@@ -19,7 +27,7 @@
 			"title": "Death Guard versus Rampant Lions",
 			
 			"content_html": "<p><a href=\"http://micro.jeredb.com/uploads/2018/b1b6c97f95.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/b1b6c97f95.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/4fe4fb99b0.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/4fe4fb99b0.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/c09c7c889a.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/c09c7c889a.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/52761f90aa.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/52761f90aa.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/d410a6fbe4.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/d410a6fbe4.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/50eadcdaf3.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/50eadcdaf3.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/88dcae306c.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/88dcae306c.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/542642a325.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/542642a325.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/746789c28c.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/746789c28c.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Two games of Warhammer 40,000. One 1,000 points, the other 500 points. Death Guard was defeated in both, but a different strategy proved to be much more effective than previous battles.</p>\n\n",
-			"date_published": "2018-03-07T11:58:00-04:00",
+			"date_published": "2018-03-07T10:58:00-05:00",
 			"url": "http://micro.jeredb.com/2018/03/07/death-guard-versus.html"
 		},
 		
@@ -27,7 +35,7 @@
 			"id": "http://jeredb.micro.blog/2018/03/06/thank-you-all.html",
 	      	
 			"content_html": "<p>Thank you all for the tea suggestions. I will now begin my exploration beyond tea bags!</p>\n",
-			"date_published": "2018-03-06T07:09:00-04:00",
+			"date_published": "2018-03-06T06:09:00-05:00",
 			"url": "http://micro.jeredb.com/2018/03/06/thank-you-all.html"
 		},
 		
@@ -35,7 +43,7 @@
 			"id": "http://jeredb.micro.blog/2018/03/06/okay-i-have.html",
 	      	
 			"content_html": "<p>Okay. I have given up coffee and am switching to tea. What should I drink? What equipment should I have besides a cup, a teabag, and boiling water?</p>\n",
-			"date_published": "2018-03-05T20:07:00-04:00",
+			"date_published": "2018-03-05T19:07:00-05:00",
 			"url": "http://micro.jeredb.com/2018/03/05/okay-i-have.html"
 		},
 		
@@ -43,7 +51,7 @@
 			"id": "http://jeredb.micro.blog/2018/03/01/we-battled-through.html",
 	      	
 			"content_html": "<p>We battled through a computer issue to bring you the latest episode of Not Ben and Jerry’s <a href=\"http://notbenandjerry.com/9\">notbenandjerry.com</a></p>\n",
-			"date_published": "2018-03-01T19:47:00-04:00",
+			"date_published": "2018-03-01T18:47:00-05:00",
 			"url": "http://micro.jeredb.com/2018/03/01/we-battled-through.html"
 		},
 		
@@ -51,7 +59,7 @@
 			"id": "http://jeredb.micro.blog/2018/03/01/the-first-episode.html",
 	      	
 			"content_html": "<p>The first episode recorded on scene at our favorite restaurant! <a href=\"http://Conversation.show/9\">Conversation.show episode 9</a></p>\n",
-			"date_published": "2018-03-01T19:46:00-04:00",
+			"date_published": "2018-03-01T18:46:00-05:00",
 			"url": "http://micro.jeredb.com/2018/03/01/the-first-episode.html"
 		},
 		
@@ -59,7 +67,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/17/busy-benoit-saturday.html",
 	      	
 			"content_html": "<p>Busy Benoit Saturday! Pinewood derby this morning, swim meet this afternoon. 🏎 ➕ 🏊🏻‍♀️</p>\n",
-			"date_published": "2018-02-17T16:17:00-04:00",
+			"date_published": "2018-02-17T15:17:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/17/busy-benoit-saturday.html"
 		},
 		
@@ -67,7 +75,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/15/it-is-also.html",
 	      	
 			"content_html": "<p>It is also a lot of fun to have <a href=\"https://micro.blog/estherbenoit\">@estherbenoit</a> as a partner! I love hearing her edits and how she shapes a conversation that I was part of! Check out her work on the <a href=\"http://Conversation.show/7\">Conversation Show</a></p>\n",
-			"date_published": "2018-02-15T08:57:00-04:00",
+			"date_published": "2018-02-15T07:57:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/15/it-is-also.html"
 		},
 		
@@ -75,7 +83,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/15/i-am-really.html",
 	      	
 			"content_html": "<p>I am really loving having a little podcast network. It definitely provides a rythym to the week, and things to be excited for!</p>\n",
-			"date_published": "2018-02-15T08:56:00-04:00",
+			"date_published": "2018-02-15T07:56:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/15/i-am-really.html"
 		},
 		
@@ -83,7 +91,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/15/not-ben-shane.html",
 	      	
 			"content_html": "<p>Not Ben (Shane) and Not Jerry (me!) talk about the Winter Olympics, Valentine’s Day, and smart speakers. Get the latest episode <a href=\"http://notbenandjerry.com/7\">notbenandjerry.com/7</a></p>\n",
-			"date_published": "2018-02-15T08:44:00-04:00",
+			"date_published": "2018-02-15T07:44:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/15/not-ben-shane.html"
 		},
 		
@@ -91,7 +99,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/15/our-first-guests.html",
 	      	
 			"content_html": "<p>Our first guests on Conversation.show! <a href=\"https://micro.blog/estherbenoit\">@estherbenoit</a>’s brother and his wife join us in an Olympic opening ceremonies extravaganza! <a href=\"http://conversation.show/7\">conversation.show/7</a></p>\n",
-			"date_published": "2018-02-15T08:42:00-04:00",
+			"date_published": "2018-02-15T07:42:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/15/our-first-guests.html"
 		},
 		
@@ -99,7 +107,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/15/okay-big-day.html",
 	      	
 			"content_html": "<p>Okay big day for your ears! Multiple b3noit.com podcast episodes dropping!</p>\n",
-			"date_published": "2018-02-15T08:41:00-04:00",
+			"date_published": "2018-02-15T07:41:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/15/okay-big-day.html"
 		},
 		
@@ -107,7 +115,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/15/pinewood-derby-cars.html",
 	      	
 			"content_html": "<p>Pinewood derby cars are ready to race!</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/963486e688.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.jeredb.com/uploads/2018/48afb54c9e.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-14T21:37:00-04:00",
+			"date_published": "2018-02-14T20:37:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/14/pinewood-derby-cars.html"
 		},
 		
@@ -115,15 +123,15 @@
 			"id": "http://jeredb.micro.blog/2018/02/09/also-not-normally.html",
 	      	
 			"content_html": "<p>Also, not normally a creeper, but I needed to have photographic proof!</p>\n",
-			"date_published": "2018-02-09T14:08:00-04:00",
+			"date_published": "2018-02-09T13:08:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/09/also-not-normally.html"
 		},
 		
 		{
 			"id": "http://jeredb.micro.blog/2018/02/09/multipad-lifestyle-in.html",
 	      	
-			"content_html": "<p>Multipad lifestyle in the wild!! </p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/ab83a807f7.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-09T14:06:00-04:00",
+			"content_html": "<p>Multipad lifestyle in the wild!!</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/ab83a807f7.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-02-09T13:06:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/09/multipad-lifestyle-in.html"
 		},
 		
@@ -131,7 +139,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/09/also-estherbenoithttpsmicroblogestherbenoit-is.html",
 	      	
 			"content_html": "<p>Also, <a href=\"https://micro.blog/estherbenoit\">@estherbenoit</a> is the best editor! Seriously. Check out <a href=\"http://Conversation.show/6\">her work</a>!</p>\n",
-			"date_published": "2018-02-08T22:18:00-04:00",
+			"date_published": "2018-02-08T21:18:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/08/also-estherbenoithttpsmicroblogestherbenoit-is.html"
 		},
 		
@@ -139,7 +147,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/09/oh-my-gosh.html",
 	      	
 			"content_html": "<p>Oh my gosh! The best episode of the <a href=\"http://Conversation.show/6\">Conversation Show</a> came out today. You have to check this one out!</p>\n",
-			"date_published": "2018-02-08T22:17:00-04:00",
+			"date_published": "2018-02-08T21:17:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/08/oh-my-gosh.html"
 		},
 		
@@ -147,7 +155,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/08/the-latest-episode.html",
 	      	
 			"content_html": "<p>The latest episode of <a href=\"https://micro.blog/NotBenAndJerry\">@NotBenAndJerry</a> has dropped. The conditions for recording were not ideal, but the atmosphere added to the conversation! <a href=\"http://notbenandjerry.com/6\">http://notbenandjerry.com/6</a></p>\n",
-			"date_published": "2018-02-08T09:19:00-04:00",
+			"date_published": "2018-02-08T08:19:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/08/the-latest-episode.html"
 		},
 		
@@ -155,7 +163,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/07/the-editor-estherbenoithttpsmicroblogestherbenoit.html",
 	      	
 			"content_html": "<p>The editor (<a href=\"https://micro.blog/estherbenoit\">@estherbenoit</a>) says that this week’s episode of the <a href=\"http://Conversation.show\">Conversation(Dot)Show</a> is a great one. You probably should get caught up while we are still in single digits of episode! <a href=\"http://conversation.show\">conversation.show</a></p>\n",
-			"date_published": "2018-02-07T08:32:00-04:00",
+			"date_published": "2018-02-07T07:32:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/07/the-editor-estherbenoithttpsmicroblogestherbenoit.html"
 		},
 		
@@ -163,7 +171,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/06/getting-ready-to.html",
 	      	
 			"content_html": "<p>Getting ready to interview.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/e82ec19517.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-06T13:37:00-04:00",
+			"date_published": "2018-02-06T12:37:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/06/getting-ready-to.html"
 		},
 		
@@ -171,7 +179,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/06/a-fruitful-day.html",
 	      	
 			"content_html": "<p>A fruitful day.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/b42e87c543.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-05T20:04:00-04:00",
+			"date_published": "2018-02-05T19:04:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/05/a-fruitful-day.html"
 		},
 		
@@ -179,7 +187,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/05/alchemy-coffee-richmond.html",
 	      	
 			"content_html": "<p>Alchemy Coffee - Richmond, VA</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/1921dc5aca.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-05T15:36:00-04:00",
+			"date_published": "2018-02-05T14:36:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/05/alchemy-coffee-richmond.html"
 		},
 		
@@ -187,7 +195,7 @@
 			"id": "http://jeredb.micro.blog/2018/02/05/im-sitting-in.html",
 	      	
 			"content_html": "<p>I’m sitting in a educational session about genderqueer terminology and issues. It is very enlightening and is going to help redouble my efforts to expunge “sir/ma’am” from my vocabulary. Particularly after hearing a child talk about “passing”.</p>\n",
-			"date_published": "2018-02-05T14:48:00-04:00",
+			"date_published": "2018-02-05T13:48:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/05/im-sitting-in.html"
 		},
 		
@@ -195,16 +203,8 @@
 			"id": "http://jeredb.micro.blog/2018/02/05/a-hearty-reward.html",
 	      	
 			"content_html": "<p>A hearty reward for talking to legislators…</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/14220421a0.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-05T13:13:00-04:00",
+			"date_published": "2018-02-05T12:13:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/05/a-hearty-reward.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/02/05/some-post-lobbying.html",
-	      	
-			"content_html": "<p>Some post lobbying libations.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/f3cdb75bda.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-05T12:52:00-04:00",
-			"url": "http://micro.jeredb.com/2018/02/05/some-post-lobbying.html"
 		}
 		
 	]
