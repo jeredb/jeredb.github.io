@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/04/08/this-working-out.html",
+	      	
+			"content_html": "<p>This “working out” thing sure takes a lot of energy…</p>\n",
+			"date_published": "2018-04-08T13:54:00-04:00",
+			"url": "http://micro.jeredb.com/2018/04/08/this-working-out.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/03/31/work-from-penland.html",
 	      	
 			"content_html": "<p>Work from Penland School of the Arts. Got my creative fires lit again.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/c8323c87cc.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>I’m sitting in a educational session about genderqueer terminology and issues. It is very enlightening and is going to help redouble my efforts to expunge “sir/ma’am” from my vocabulary. Particularly after hearing a child talk about “passing”.</p>\n",
 			"date_published": "2018-02-05T13:48:00-05:00",
 			"url": "http://micro.jeredb.com/2018/02/05/im-sitting-in.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/02/05/a-hearty-reward.html",
-	      	
-			"content_html": "<p>A hearty reward for talking to legislators…</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/14220421a0.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-05T12:13:00-05:00",
-			"url": "http://micro.jeredb.com/2018/02/05/a-hearty-reward.html"
 		}
 		
 	]
