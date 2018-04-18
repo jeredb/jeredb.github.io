@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-05 13:13 -0400
+date: 2018-02-05 13:13:16 -0400
 guid: http://jeredb.micro.blog/2018/02/05/a-hearty-reward.html
 ---
 A hearty reward for talking to legislators…
