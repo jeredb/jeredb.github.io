@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-05 20:04 -0400
+date: 2018-02-05 20:04:44 -0400
 guid: http://jeredb.micro.blog/2018/02/06/a-fruitful-day.html
 ---
 A fruitful day.
