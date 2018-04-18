@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-01-20 21:36 -0400
+date: 2018-01-20 21:36:52 -0400
 guid: http://jeredb.micro.blog/2018/01/21/the-kids-are.html
 ---
 The kids are doing quite a number on my Space Marines.
