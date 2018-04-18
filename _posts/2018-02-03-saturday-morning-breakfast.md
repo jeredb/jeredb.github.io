@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-03 11:14 -0400
+date: 2018-02-03 11:14:17 -0400
 guid: http://jeredb.micro.blog/2018/02/03/saturday-morning-breakfast.html
 ---
 Saturday morning breakfast.
