@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-06 13:37 -0400
+date: 2018-02-06 13:37:16 -0400
 guid: http://jeredb.micro.blog/2018/02/06/getting-ready-to.html
 ---
 Getting ready to interview.
