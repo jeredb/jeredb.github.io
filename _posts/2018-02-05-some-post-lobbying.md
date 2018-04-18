@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-05 12:52 -0400
+date: 2018-02-05 12:52:51 -0400
 guid: http://jeredb.micro.blog/2018/02/05/some-post-lobbying.html
 ---
 Some post lobbying libations.
