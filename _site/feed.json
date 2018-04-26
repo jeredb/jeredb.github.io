@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/04/26/lifting-weights-is.html",
+	      	
+			"content_html": "<p>Lifting weights is getting simultaneously easier and harder. The diet is just getting harder.</p>\n",
+			"date_published": "2018-04-26T12:35:30-04:00",
+			"url": "http://micro.jeredb.com/2018/04/26/lifting-weights-is.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/04/23/it-is-weird.html",
 	      	
 			"content_html": "<p>It is weird when going to the gym and exercising every day is becoming <em>enjoyable</em>.</p>\n\n<p>I guess this is what a runner’s high is…</p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>The editor (<a href=\"https://micro.blog/estherbenoit\">@estherbenoit</a>) says that this week’s episode of the <a href=\"http://Conversation.show\">Conversation(Dot)Show</a> is a great one. You probably should get caught up while we are still in single digits of episode! <a href=\"http://conversation.show\">conversation.show</a></p>\n",
 			"date_published": "2018-02-07T07:32:50-05:00",
 			"url": "http://micro.jeredb.com/2018/02/07/the-editor-estherbenoithttpsmicroblogestherbenoit.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/02/06/getting-ready-to.html",
-	      	
-			"content_html": "<p>Getting ready to interview.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/e82ec19517.jpg\" width=\"599\" height=\"600\" /></p>\n",
-			"date_published": "2018-02-06T12:37:16-05:00",
-			"url": "http://micro.jeredb.com/2018/02/06/getting-ready-to.html"
 		}
 		
 	]
