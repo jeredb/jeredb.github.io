@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/05/13/a-lovely-dinner.html",
+	      	
+			"content_html": "<p>A lovely dinner with the best company. The fact that there was George T. Stagg bourbon for $24 didn’t hurt either.</p>\n",
+			"date_published": "2018-05-12T21:47:08-04:00",
+			"url": "http://micro.jeredb.com/2018/05/12/a-lovely-dinner.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/05/12/a-delicious-drink.html",
 	      	
 			"content_html": "<p>A delicious drink and huevos rancheros!</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/df3782d583.jpg\" width=\"600\" height=\"600\" /><img src=\"http://micro.jeredb.com/uploads/2018/aa3e125742.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -197,16 +205,6 @@
 			"content_html": "<p>Brunch with my favorite people at my favorite spot.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/0e348a37a7.jpg\" width=\"600\" height=\"451\" /></p>\n",
 			"date_published": "2018-03-18T10:49:47-04:00",
 			"url": "http://micro.jeredb.com/2018/03/18/brunch-with-my.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/03/07/death-guard-versus.html",
-	      	
-			"title": "Death Guard versus Rampant Lions",
-			
-			"content_html": "<p><a href=\"http://micro.jeredb.com/uploads/2018/b1b6c97f95.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/b1b6c97f95.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/4fe4fb99b0.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/4fe4fb99b0.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/c09c7c889a.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/c09c7c889a.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/52761f90aa.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/52761f90aa.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/d410a6fbe4.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/d410a6fbe4.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/50eadcdaf3.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/50eadcdaf3.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/88dcae306c.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/88dcae306c.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/542642a325.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/542642a325.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://micro.jeredb.com/uploads/2018/746789c28c.jpg\"><img src=\"http://micro.jeredb.com/uploads/2018/746789c28c.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Two games of Warhammer 40,000. One 1,000 points, the other 500 points. Death Guard was defeated in both, but a different strategy proved to be much more effective than previous battles.</p>\n\n",
-			"date_published": "2018-03-07T10:58:54-05:00",
-			"url": "http://micro.jeredb.com/2018/03/07/death-guard-versus.html"
 		}
 		
 	]
