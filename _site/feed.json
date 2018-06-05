@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://jeredb.micro.blog/2018/06/04/esther-sampling-a.html",
+	      	
+			"content_html": "<p>Esther sampling a triple decker home-made oatmeal cream pie.</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/6c8e1101ec.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-04T08:30:31-04:00",
+			"url": "http://micro.jeredb.com/2018/06/04/esther-sampling-a.html"
+		},
+		
+		{
+			"id": "http://jeredb.micro.blog/2018/06/04/bantam-everybodys-warmed.html",
+	      	
+			"content_html": "<p>Bantam Everybody’s Warmed</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/bc96cc0153.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-06-04T08:12:47-04:00",
+			"url": "http://micro.jeredb.com/2018/06/04/bantam-everybodys-warmed.html"
+		},
+		
+		{
 			"id": "http://jeredb.micro.blog/2018/06/01/i-use-jerry.html",
 	      	
 			"content_html": "<p>I use “Jerry” as my coffee name, because I have had my name butchered in every possible way. Now the crew at the local Starbucks only call me by that. I may have to consider and name change.</p>\n",
@@ -189,22 +205,6 @@
 			"content_html": "<p>Got my Earth Day achievement!</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/abecfe51cb.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-22T12:32:40-04:00",
 			"url": "http://micro.jeredb.com/2018/04/22/got-my-earth.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/04/18/180722.html",
-	      	
-			"content_html": "<p>This is a test post from Drafts.</p>\n",
-			"date_published": "2018-04-18T14:07:22-04:00",
-			"url": "http://micro.jeredb.com/2018/04/18/180722.html"
-		},
-		
-		{
-			"id": "http://jeredb.micro.blog/2018/04/09/she-says-she.html",
-	      	
-			"content_html": "<p>She says she is helping me drink my beer… she keeps whispering as I sip…</p>\n\n<p><img src=\"http://micro.jeredb.com/uploads/2018/1f78204618.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-08T20:48:28-04:00",
-			"url": "http://micro.jeredb.com/2018/04/08/she-says-she.html"
 		}
 		
 	]
